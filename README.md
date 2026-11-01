@@ -4,11 +4,11 @@
 ## Project Structure
 ```
 bsd-dot-lain/
+├── .config/
 ├── LICENSE
 ├── README.md
 ├── freebsd_install.sh
-├── openbsd_install.sh
-└── .config/
+└── openbsd_install.sh
 ```
 
 # Preview 
