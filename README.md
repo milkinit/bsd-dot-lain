@@ -33,7 +33,6 @@ The installation script installs the following tools:
 - `i3` — lightweight window manager
 - `i3status` — system information bar for i3
 - `alacritty` — terminal emulator
-- `tmux` - terminal multiplexer
 - `git` — version control system
 - `feh` — image viewer and wallpaper setter
 - `dmenu` — application launcher
