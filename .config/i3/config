@@ -231,7 +231,7 @@ bar {
                 active_workspace $red2 $black2 $white
                 inactive_workspace $black2 $black2 $white
 
-                urgent_workspace #ff6aa8 $black2 $white
+                urgent_workspace $red $black2 $white
         }
 }
 
