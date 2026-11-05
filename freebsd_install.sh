@@ -5,7 +5,7 @@ DOAS=""
 if [[ "$(id -u)" -ne 0 ]]; then DOAS="doas"; fi
 
 copy_config() {
-        local src="./.config"
+        local src=".config"
         local dst="$HOME/"
 
         if [[ ! -e "$src" ]]; then
