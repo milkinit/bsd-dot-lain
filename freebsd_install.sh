@@ -29,7 +29,7 @@ update_system() {
 install_deps() {
         echo "| INSTALLING DEPENDENCIES |"
         $DOAS pkg install \
-        i3 i3status alacritty \
+        i3 i3status alacritty tmux xorg \
         git feh dmenu fastfetch
         echo "| DONE |"
 }
